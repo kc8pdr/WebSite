@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: berkshireswash-regular
+font link: https://fonts.google.com/specimen/Berkshire+Swash
+font author: Astigmatic
+font author site: http://www.astigmatic.com/
+Slogan Font: Fanwood Text.otf
+
+icon designer: Mister Pixel
+icon designer link: /MisterPixel
+        
+{"bg":"#48463E","icon":"#CB594D","font":"#ffffff","slogan":"#ffffff"}
+      
